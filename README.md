@@ -1,6 +1,9 @@
 # Monochrome
 The official GitHub repository for the Monochrome open source project.
 
+# Contributing
+Changes and improvements are more than welcome! Feel free to fork and open a pull request.
+
 # Screenshots
 <img src="https://user-images.githubusercontent.com/107125817/172638611-24c580fb-5957-43fd-aff4-e0bea998cad4.jpg" width="275" height="500">
 <img src="https://user-images.githubusercontent.com/107125817/172638619-90e73fcc-16aa-42e2-9f0f-eb511d5c04bc.jpg" width="275" height="500">
