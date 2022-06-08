@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vanguard.monochrome.app">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.vanguard.monochrome.app.splash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.vanguard.monochrome.app.home"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.vanguard.monochrome.app.login"
+            android:label="@string/title_activity_log_in"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.vanguard.monochrome.app.signup"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.vanguard.monochrome.app.forgotpassword"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.vanguard.monochrome.app.userlist"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.vanguard.monochrome.app.chat"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.parse.SERVER_URL"
+            android:value="https://parseapi.back4app.com/" />
+        <meta-data
+            android:name="com.parse.APPLICATION_ID"
+            android:value="h2lLTbdsIyze9ilU5ZfXoL1lZrhF256XnI1C83Mb" />
+        <meta-data
+            android:name="com.parse.CLIENT_KEY"
+            android:value="HTTjb8Il45zELC0vsiyPVafYfKvWtEcIljPdxxhg" />
+        <meta-data
+            android:name="com.bugsnag.android.API_KEY"
+            android:value="973724fe5a14a2ca3b464512bd514142"/>
+    </application>
+
+</manifest>
