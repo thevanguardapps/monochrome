@@ -7,3 +7,5 @@ Subject: Permission to use the content of [monochrome](https://github.com/thevan
 [@thevanguardapps](https://github.com/thevanguardapps), the owner of this repository and the developer of "Monochrome", authorizes "Vanguard Apps" Samsung Apps Seller to use the content of this repository and publish the app on Samsung Galaxy Store.
 
 
+You can verify the authenticity of this permission on:
+[https://github.com/thevanguardapps/monochrome/blob/main/PERMISSION.md](https://github.com/thevanguardapps/monochrome/blob/main/PERMISSION.md)
