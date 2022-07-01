@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Monochrome</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="parse_app_id">h2lLTbdsIyze9ilU5ZfXoL1lZrhF256XnI1C83Mb</string>
+    <string name="parse_client_key">HTTjb8Il45zELC0vsiyPVafYfKvWtEcIljPdxxhg</string>
+    <string name="logo">logo</string>
+    <string name="login_bg">loginBg</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="my_chats">My chats</string>
+    <string name="all_chats">All chats</string>
+    <string name="new_chat">New chat</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="alert_wait">Please wait...</string>
+    <string name="alert_loading">Loading...</string>
+    <string name="err_fields_empty">Please fill all the fields</string>
+
+
+    <string name="enter_username_you_want">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email_id">Enter email-id</string>
+
+
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_field_required">Field can\'t be empty</string>
+    <string name="error_invalid_email">Invalid email</string>
+</resources>
